@@ -49,7 +49,7 @@ int dequque(quque *q, int *value) {
 int element(quque *q) {
   if (isEmpty(q)) {
     printf("We havent first element");
-    return -1;
+    return 0;
   }
   return q->elements[q->head];
 }
