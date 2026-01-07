@@ -1,0 +1,17 @@
+5
+enquque 10
+enquque 20
+enquque 30
+print
+size
+dequque
+print
+enquque 40
+enquque 50
+enquque 60
+print
+element
+isEmpty
+clear
+print
+isEmpty
